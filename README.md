@@ -176,7 +176,7 @@ You can use (http://kaffeine.herokuapp.com) to ping the heroku app every 30 minu
 
 # Easy way to deploy:- :rocket:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adiz777/whatsapp-bot-md1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adiz777/whatsapp-bot-md-1)
 
 Your bot will be deployed on heroku but still you need to install heroku locally to scan QR code
 
